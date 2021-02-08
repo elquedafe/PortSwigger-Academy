@@ -1,2 +1,2 @@
-# PortSwigger_Academy
+# PortSwigger Academy
  Writeups about PortSwigger Academy Labs
